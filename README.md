@@ -1,5 +1,5 @@
 # ami-starter
-Starter kit for AMI (AMI Medical Imaging)
+Starter kit for AMI (AMI Medical Imaging) (https://github.com/FNNDSC/ami)
 
 AMI 0.0.4.
 
