@@ -6,7 +6,7 @@ AMI 0.0.4.
 ### Getting started
 
 ```
-$> git clone
+$> git clone https://github.com/FNNDSC/ami-starter.git
 
 $> cd ami-starter
 $> npm install
